@@ -18,6 +18,7 @@ public class JavaApplication8 {
         int x=2;
         int y=5;
         int z=7;
+        int r=x+y+z+;
     }
     
 }
