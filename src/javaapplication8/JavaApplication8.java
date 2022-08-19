@@ -18,9 +18,7 @@ public class JavaApplication8 {
         int x=2;
         int y=5;
         int z=7;
-        int r=x+y+z+;
-        //Aqui hay una linea de código comentada
-        //Aqui hay una linea de código comentada
+        int r=x+y+z;
     }
     
 }
