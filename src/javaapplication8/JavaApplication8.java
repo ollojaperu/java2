@@ -27,6 +27,7 @@ public class JavaApplication8 {
         //Aqui hay una sexta linea de código comentada
         //Aqui hay una séptima linea de código comentada
         //Aqui hay una octava linea de código comentada
+        System.out.println("Hola");
         
     }
     
